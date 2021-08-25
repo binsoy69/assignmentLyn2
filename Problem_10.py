@@ -36,7 +36,4 @@ def get4thPower(n):
 def get4thRoot(n):
   return round(n ** 0.25, 3)
 
-  
-
-if __name__ == '__main__':
-  main()
+main()
